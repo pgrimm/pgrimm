@@ -1,3 +1,6 @@
+# Simple Sample Elixir http client
+# - commit for testing git with zapier workflow
+# 
 defmodule HttpClient do
 
 	def send_request(request) do
